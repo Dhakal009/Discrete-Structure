@@ -21,7 +21,7 @@ void directed()
         }
     printf("\n");
 }
-        printf("\n");
+    printf("\n");
     for(i=1;i<=n;i++){
     in=0,out=0;
         for(j=1;j<=n;j++){
